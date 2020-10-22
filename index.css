@@ -1,0 +1,54 @@
+img {
+min-width: 100%;
+min-height: 100%;
+padding-top: 40px;
+}
+
+input[type=text], select, textarea {
+    width: 20%; 
+  background-color: linear-gradient(90deg, white, silver);
+  min-height: 50px;
+  margin-left: 500px;
+    border: 1px solid #ccc; 
+    border-radius: 13px; 
+    box-sizing: border-box; 
+  }
+  
+  input[type=submit] {
+  position: relative;
+  top: 15%;
+  left: 6%;
+  margin-right: 20px;
+  padding-top: 7px;
+  width: 98px;
+  height: 49px;
+  cursor: pointer;
+  background-color: rgb(112, 75, 75);
+  }
+
+  .container {
+      background-color: none;
+      text-align: center;
+      position: relative;
+  }
+
+
+  #markdown{
+    position: relative;
+    margin-left: 480px;
+    margin-right: auto;
+    vertical-align: middle;
+    font-size: 28px;
+
+  }
+
+  .downbutton {
+  position: relative;
+  padding-top: 5px;
+  margin-bottom: 10px;
+  }
+
+  #clickster {
+  position: relative;
+  top: 27px;
+  }
